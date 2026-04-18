@@ -81,24 +81,43 @@ Missing or incorrect data
 🏗️ Project Structure
 
 spdo/
+
 │
+
 ├── __init__.py
+
 │
+
 ├── models/
+
 │   ├── __init__.py
+
 │   └── person.py
+
 │
+
 ├── utils/
+
 │   ├── __init__.py
+
 │   ├── validators.py
+
 │   ├── file_ops.py
+
 │   └── cleaners.py
+
 │
+
 ├── analysis/
+
 │   ├── __init__.py
+
 │   ├── analyzer.py
+
 │   └── visualizer.py
+
 │
+
 └── main.py
 
 🧩 Architecture
